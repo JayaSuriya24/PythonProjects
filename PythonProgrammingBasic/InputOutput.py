@@ -1,0 +1,36 @@
+
+# Getting input values from the user to perform the tasks
+print('-----')
+print('INPUT')
+print('-----')
+name = input('Enter the name :')
+age = input('Enter the age :')
+height = input('Enter the height :')
+print('-----')
+print('OUTPUT')
+print('-----')
+print('Your name is ',name)
+print(name,' age is ',age)
+print(height,' is the height of ',name)
+print('---------------------')
+print('DATA TYPE OF THE INPUT   - - - - THE INPUTS WHICH ARE TAKEN FROM THE USER IS MUST BE IN THE STRING FORMAT')
+print('---------------------')
+print(type(name),'is the data type of name')
+print(type(age),'is the data type of age')
+print(type(height),'is the data type of height')
+print('-----------------------------------')
+print('DATA TYPE AFTER THE TYPE CONVERSION  -  -  -  - AGE & HEIGHT ')
+print('-----------------------------------')
+tc_age = int(age)
+tc_height = float(height)
+print('AGE IS :',tc_age,'',type(tc_age))
+print('HEIGHT IS :',tc_height,'',type(tc_height))
+print('-----------------------------------')
+print('RESPECTIVE DATA TYPE OF THE VARIABLES')
+print('-----------------------------------')
+# Re-assign the type converted variable to the real variable
+age=tc_age
+height=tc_height
+print('Re-assigned age :',type(age))
+print('Re-assigned height :',type(height))
+

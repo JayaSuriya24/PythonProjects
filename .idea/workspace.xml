@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Variable of python">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/TypeConversion.py" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Variables Type conversion">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/InputOutput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.HelloWorld.executor": "Run",
     "Python.SumOfTwoNumbers.executor": "Run",
+    "Python.TypeConversion.executor": "Run",
     "Python.Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -102,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754409905726</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Variables Type conversion">
+      <option name="closed" value="true" />
+      <created>1754411956189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754411956189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +131,7 @@
     <MESSAGE value="Python Programming package is created,&#10;Hello world Project is created." />
     <MESSAGE value="Sum of two numbers" />
     <MESSAGE value="Variable of python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variable of python" />
+    <MESSAGE value="Variables Type conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables Type conversion" />
   </component>
 </project>
