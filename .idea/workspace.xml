@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Arithmetic Operators">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Operators/AssignmentOperator.py" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Assignment Operators">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Operators/ComparisonOperator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ArithmeticOperator.executor": "Run",
+    "Python.AssignmentOperator.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.InputOutput.executor": "Run",
     "Python.SumOfTwoNumbers.executor": "Run",
@@ -128,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754427157845</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Assignment Operators">
+      <option name="closed" value="true" />
+      <created>1754429466252</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754429466252</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +160,7 @@
     <MESSAGE value="Variables Type conversion" />
     <MESSAGE value="Input and output with type conversion program is created" />
     <MESSAGE value="Arithmetic Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arithmetic Operators" />
+    <MESSAGE value="Assignment Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment Operators" />
   </component>
 </project>
