@@ -1,0 +1,17 @@
+Python supports integers, floating-point numbers and complex numbers.
+They are defined as int, float, and complex classes in Python.
+
+int - holds signed integers of non-limited length.
+
+float - holds floating decimal points and it's accurate up to 15 decimal places.
+
+complex - holds complex numbers
+
+-------------------------------------
+
+5 is an integer
+
+5.42 is a floating-point number.
+
+Complex numbers are written in the form, x + yj,
+where x is the real part and y is the imaginary part.
