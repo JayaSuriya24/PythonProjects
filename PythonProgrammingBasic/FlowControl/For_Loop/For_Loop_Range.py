@@ -6,5 +6,6 @@
 
 # i , is print the value from the start default zero to the given range
 for i in  range(10):
-
     print(i)
+    print('Hai')
+# Using for loop without accessing sequence items
