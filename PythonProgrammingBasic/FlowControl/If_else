@@ -1,0 +1,40 @@
+Compact IF Statement
+--------------------
+
+Normal code     ->1
+-----------
+number = 10
+
+if number > 0:
+    print('Positive')
+
+
+Compact code     ->1
+------------
+number = 10
+
+if number > 0: print('Positive')
+
+
+Ternary operator
+----------------
+
+Normal code  ->2
+-----------
+grade = 40
+
+if grade >= 50:
+    result = 'pass'
+else:
+    result = 'fail'
+
+print(result)
+
+
+compact code    ->2
+------------
+grade = 40
+
+result = 'pass' if number >= 50 else 'fail'
+
+print(result)
