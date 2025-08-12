@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Python function">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/function_arguments.py" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Python function arguments from the user input">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/loop_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,10 @@
     "Python.Variables.executor": "Run",
     "Python.While_Loop.executor": "Run",
     "Python.function.executor": "Run",
+    "Python.function_arguments.executor": "Run",
     "Python.immutable_dictionary.executor": "Run",
+    "Python.loop_function.executor": "Run",
+    "Python.user_input.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -453,7 +457,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755038176376</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Python function arguments">
+      <option name="closed" value="true" />
+      <created>1755038510130</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1755038510130</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Python function arguments from the user input">
+      <option name="closed" value="true" />
+      <created>1755038971147</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1755038971147</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,8 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if_elif_else flow control" />
-    <MESSAGE value="Nested_if flow control" />
     <MESSAGE value="If-else compact code file" />
     <MESSAGE value="Refactors of if-else programs" />
     <MESSAGE value="For loop program is created" />
@@ -493,6 +511,8 @@
     <MESSAGE value="dictionary programs are completed" />
     <MESSAGE value="immutable dictionary programs are completed" />
     <MESSAGE value="Python function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python function" />
+    <MESSAGE value="Python function arguments" />
+    <MESSAGE value="Python function arguments from the user input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python function arguments from the user input" />
   </component>
 </project>
