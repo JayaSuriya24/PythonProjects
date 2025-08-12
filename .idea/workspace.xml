@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Python function arguments from the user input">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/loop_function.py" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Python function call with loop statement">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/variable_scope_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +85,7 @@
     "Python.immutable_dictionary.executor": "Run",
     "Python.loop_function.executor": "Run",
     "Python.user_input.executor": "Run",
+    "Python.variable_scope_function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -473,7 +474,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755038971147</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Python function call with loop statement">
+      <option name="closed" value="true" />
+      <created>1755039649313</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1755039649313</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="If-else compact code file" />
     <MESSAGE value="Refactors of if-else programs" />
     <MESSAGE value="For loop program is created" />
     <MESSAGE value="For loop Range function program is created" />
@@ -513,6 +521,7 @@
     <MESSAGE value="Python function" />
     <MESSAGE value="Python function arguments" />
     <MESSAGE value="Python function arguments from the user input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python function arguments from the user input" />
+    <MESSAGE value="Python function call with loop statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python function call with loop statement" />
   </component>
 </project>
