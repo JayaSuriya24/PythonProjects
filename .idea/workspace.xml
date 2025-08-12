@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="immutable dictionary programs are completed">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Python function">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/function_arguments.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,45 +47,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ArithmeticOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.AssignmentOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Break.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ComparisonOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Countinue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For_Loop_Range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If-else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If_elif_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.InputOutput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List_Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MembershipOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nested_For.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nested_if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nueric_dt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Set_Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SpecialOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SumOfTwoNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.While_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.immutable_dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ArithmeticOperator.executor": "Run",
+    "Python.AssignmentOperator.executor": "Run",
+    "Python.Break.executor": "Run",
+    "Python.ComparisonOperator.executor": "Run",
+    "Python.Countinue.executor": "Run",
+    "Python.Dictionary.executor": "Run",
+    "Python.For_Loop.executor": "Run",
+    "Python.For_Loop_Range.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.If-else.executor": "Run",
+    "Python.If_elif_else.executor": "Run",
+    "Python.If_else.executor": "Run",
+    "Python.InputOutput.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.List_Operations.executor": "Run",
+    "Python.LogicalOperator.executor": "Run",
+    "Python.MembershipOperator.executor": "Run",
+    "Python.Nested_For.executor": "Run",
+    "Python.Nested_if.executor": "Run",
+    "Python.Nueric_dt.executor": "Run",
+    "Python.Pass.executor": "Run",
+    "Python.Set.executor": "Run",
+    "Python.Set_Operations.executor": "Run",
+    "Python.SpecialOperators.executor": "Run",
+    "Python.SumOfTwoNumbers.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.TypeConversion.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.While_Loop.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.immutable_dictionary.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PythonProgrammingBasic/DataTypes" />
@@ -445,7 +445,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754666504820</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Python function">
+      <option name="closed" value="true" />
+      <created>1755038176376</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1755038176376</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +468,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if_else flow control" />
     <MESSAGE value="if_elif_else flow control" />
     <MESSAGE value="Nested_if flow control" />
     <MESSAGE value="If-else compact code file" />
@@ -485,6 +492,7 @@
     <MESSAGE value="Set operation commends programs are completed" />
     <MESSAGE value="dictionary programs are completed" />
     <MESSAGE value="immutable dictionary programs are completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="immutable dictionary programs are completed" />
+    <MESSAGE value="Python function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python function" />
   </component>
 </project>
