@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Python function call with loop statement">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/variable_scope_function.py" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="function scope variable">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/Recursion_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,7 @@
     "Python.Nested_if.executor": "Run",
     "Python.Nueric_dt.executor": "Run",
     "Python.Pass.executor": "Run",
+    "Python.Recursion_function.executor": "Run",
     "Python.Set.executor": "Run",
     "Python.Set_Operations.executor": "Run",
     "Python.SpecialOperators.executor": "Run",
@@ -482,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755039649313</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="function scope variable">
+      <option name="closed" value="true" />
+      <created>1755041687932</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1755041687932</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactors of if-else programs" />
     <MESSAGE value="For loop program is created" />
     <MESSAGE value="For loop Range function program is created" />
     <MESSAGE value="Nested for program is created" />
@@ -522,6 +530,7 @@
     <MESSAGE value="Python function arguments" />
     <MESSAGE value="Python function arguments from the user input" />
     <MESSAGE value="Python function call with loop statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python function call with loop statement" />
+    <MESSAGE value="function scope variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="function scope variable" />
   </component>
 </project>
