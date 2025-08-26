@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="Recursion explanation">
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Functions/modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/LeetCode/LeetCodeArea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/LeetCode/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Problems/3Sum.py" afterDir="false" />
+    <list default="true" id="f3d7491a-3c69-4fc0-8c53-20c1fcaab9f8" name="Changes" comment="LeedCode three sum">
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Problems/4Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgrammingBasic/Problems/Add_Two_Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgrammingBasic/FlowControl/For_Loop/For_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgrammingBasic/FlowControl/For_Loop/For_Loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.3Sum.executor": "Run",
+    "Python.4Sum.executor": "Run",
+    "Python.Add_Two_Numbers.executor": "Run",
     "Python.ArithmeticOperator.executor": "Run",
     "Python.AssignmentOperator.executor": "Run",
     "Python.Break.executor": "Run",
@@ -120,14 +121,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754406397176</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Python Project is created">
-      <option name="closed" value="true" />
-      <created>1754406508107</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1754406508107</updated>
     </task>
     <task id="LOCAL-00002" summary="Python Project is created">
       <option name="closed" value="true" />
@@ -513,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755042830173</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="LeedCode three sum">
+      <option name="closed" value="true" />
+      <created>1756077922992</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1756077922992</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nested for program is created" />
     <MESSAGE value="Using for loop without accessing sequence items" />
     <MESSAGE value="While Loop is created" />
     <MESSAGE value="Break Statement program" />
@@ -553,6 +553,7 @@
     <MESSAGE value="function scope variable" />
     <MESSAGE value="Recursion" />
     <MESSAGE value="Recursion explanation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursion explanation" />
+    <MESSAGE value="LeedCode three sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeedCode three sum" />
   </component>
 </project>
